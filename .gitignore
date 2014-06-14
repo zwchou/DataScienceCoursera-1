@@ -64,6 +64,7 @@ ipch/
 [Pp]ackages/
 publish
 [Rr]elease/
+.Rproj.user
 [Ss]andbox/
 [Ss]tyle[Cc]op.*
 [Tt]est[Rr]esult
